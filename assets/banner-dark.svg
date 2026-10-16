@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="100%" role="img" aria-label="Project NHE - a research programme on Non-Human Entities">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#040B14"/><stop offset=".55" stop-color="#081629"/><stop offset="1" stop-color="#0B2140"/></linearGradient>
+<pattern id="g" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#7FB2E5" stroke-opacity=".07"/></pattern>
+<radialGradient id="glow" cx=".8" cy=".5" r=".6"><stop offset="0" stop-color="#1E6FEB" stop-opacity=".30"/><stop offset="1" stop-color="#1E6FEB" stop-opacity="0"/></radialGradient>
+<linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#8FC3F0"/></linearGradient>
+<clipPath id="sweep"><rect x="56" y="96" width="0" height="112"><animate attributeName="width" from="0" to="660" dur="1.8s" begin="0.25s" fill="freeze" calcMode="spline" keySplines="0.2 0.6 0.2 1" keyTimes="0;1"/></rect></clipPath>
+<path id="o1" d="M570 150 a190 62 0 1 1 380 0 a190 62 0 1 1 -380 0" fill="none"/>
+<path id="o2" d="M606 150 a154 44 0 1 1 308 0 a154 44 0 1 1 -308 0" fill="none"/>
+</defs>
+<rect width="1000" height="300" fill="url(#bg)"/>
+<rect width="1000" height="300" fill="url(#g)"/>
+<rect width="1000" height="300" fill="url(#glow)"/>
+<g transform="rotate(-16 760 150)">
+<use href="#o1" stroke="#5AB0EA" stroke-opacity=".5" stroke-width="1.4"/>
+<circle r="4.5" fill="#8FCCF5"><animateMotion dur="9s" repeatCount="indefinite"><mpath href="#o1"/></animateMotion></circle>
+</g>
+<g transform="rotate(13 760 150)">
+<use href="#o2" stroke="#2F81F7" stroke-opacity=".35" stroke-width="1.2" stroke-dasharray="3 7"><animate attributeName="stroke-dashoffset" from="0" to="-40" dur="3s" repeatCount="indefinite"/></use>
+<circle r="3" fill="#5AB0EA" fill-opacity=".85"><animateMotion dur="6.5s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#o2"/></animateMotion></circle>
+</g>
+<text x="58" y="80" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="15" letter-spacing="6" fill="#5AB0EA">A RESEARCH PROGRAMME</text>
+<g clip-path="url(#sweep)"><text x="54" y="172" font-family="'Avenir Next','Segoe UI',Helvetica,Arial,sans-serif" font-size="78" font-weight="800" letter-spacing="6" fill="url(#t)">PROJECT NHE</text></g>
+<text x="58" y="216" font-family="'Avenir Next','Segoe UI',Helvetica,Arial,sans-serif" font-size="21" letter-spacing="1" fill="#A9CBE8">on Non-Human Entities, and how software can hold a relationship honestly</text>
+<g transform="translate(58,242)">
+<rect width="252" height="30" rx="15" fill="#0D2A4D" stroke="#2F81F7" stroke-opacity=".55"/>
+<circle cx="20" cy="15" r="4.5" fill="#4ADE80"><animate attributeName="fill-opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></circle>
+<text x="36" y="20" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#BFE0F7">ENTITY 01 · SHAYARI · LIVE</text>
+</g>
+</svg>
