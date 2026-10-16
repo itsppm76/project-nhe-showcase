@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 42" width="100%" role="img" aria-label="Fully disclosed. Memory you can inspect. Safety first.">
+<rect width="920" height="42" fill="none"/>
+<style>.t{font:15px ui-monospace,Menlo,Consolas,monospace;fill:#CFE6FA}.k{fill:#5AB0EA}
+.l{opacity:0;animation:s 12s infinite}.l2{animation-delay:4s}.l3{animation-delay:8s}
+@keyframes s{0%{opacity:0}3%{opacity:1}30%{opacity:1}33%{opacity:0}100%{opacity:0}}
+@media(prefers-color-scheme:light){.t{fill:#14324F}.k{fill:#1E6FEB}}</style>
+<g class="l"><text class="t" x="460" y="27" text-anchor="middle"><tspan class="k">&gt; </tspan>Fully disclosed. She never pretends to be a person.</text></g>
+<g class="l l2"><text class="t" x="460" y="27" text-anchor="middle"><tspan class="k">&gt; </tspan>Memory you can inspect, correct and delete.</text></g>
+<g class="l l3"><text class="t" x="460" y="27" text-anchor="middle"><tspan class="k">&gt; </tspan>Safety first. Personality second.</text></g>
+</svg>
