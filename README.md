@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="assets/badges.svg" alt="Entity 01 live · Web, Android, Desktop · Desktop v1.0.1 · Web app v137.9.3.1"/>
+<img src="assets/badges.svg" alt="Entity 01 live · Web, Android, Desktop · Desktop v1.0.1 · Web app v137.9.4"/>
 
 </div>
 
