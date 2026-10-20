@@ -23,6 +23,6 @@ svg{--edge:#2F81F7}
 <rect width="71" height="26" fill="none" stroke="var(--edge)"/>
 <rect x="71" width="63" height="26" fill="#0D2A4D"/>
 <text x="35.5" y="17" text-anchor="middle" class="lbl">WEB APP</text>
-<text x="102.5" y="17" text-anchor="middle" fill="#8FCCF5" font-weight="700">v137.24</text>
+<text x="102.5" y="17" text-anchor="middle" fill="#8FCCF5" font-weight="700">v137.25</text>
 </g>
 </svg>
